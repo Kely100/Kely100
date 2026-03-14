@@ -39,7 +39,6 @@ Estou em constante evolução na área de programação, buscando melhorar minha
 - 🌍 Redes de Computadores  
 
 ---
-
 <h3 style="color: #8A2BE2;">
 🧠 Linguagens que já estudei
 </h3>
@@ -64,6 +63,7 @@ Estou em constante evolução na área de programação, buscando melhorar minha
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70"/>
 </p>
+
 
 ---
 
