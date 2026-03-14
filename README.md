@@ -44,14 +44,50 @@ Estou em constante evolução na área de programação, buscando melhorar minha
 </h3>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/>
+  <img src="COLE_AQUI_O_LINK_DO_BANNER" width="100%">
+</p>
+
+<h1 align="center">
+  Kely Cristina Pereira da Silva
+</h1>
+
+---
+
+<h3 style="color: #8A2BE2;">
+📌 Sobre mim
+</h3>
+
+- 🎂 XX anos  
+- 🖥 Informática Básica + Digitação (2018–2019) | SSMM  
+- 💻 Técnica em Informática - IF Goiano  
+- 🎓 Estudante do 3º período de Ciência da Computação - IF Goiano  
+- 📍 Morrinhos - Goiás  
+
+---
+
+<h3 style="color: #8A2BE2;">
+🧠 Linguagens que já estudei
+</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60"/>
+</p>
+
+---
+
+<h3 style="color: #8A2BE2;">
+🖥 MARS - Arquitetura de Computadores
+</h3>
+
+<p align="center">
+  <img src="./mars.png" width="80%">
 </p>
 
 ---
