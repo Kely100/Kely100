@@ -1,4 +1,4 @@
- <p align="center">
+4 <p align="center">
   <img src="COLE_AQUI_O_LINK_DIRETO_DO_BANNER_OU_GIF" width="100%">
 </p>
 
@@ -62,6 +62,6 @@
 </h3>
 
 
-<img src="https://www.coreldraw.com/static/cdgs/product-logo.svg" width="60"/>
+<img src="./coreldraw.png" width="60"/>
 
 🎨 CorelDRAW — Criação de certificados, calendários e materiais gráficos.
