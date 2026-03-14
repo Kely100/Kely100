@@ -74,3 +74,4 @@
 <img src="./coreldraw-logo_brandlogos.net_96dfz-512x512.png" width="60"/>
 
 🎨 CorelDRAW — Criação de certificados, calendários e materiais gráficos.
+
