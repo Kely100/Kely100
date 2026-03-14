@@ -60,6 +60,5 @@
 <h3 style="color: #8A2BE2;">
 🎨 CorelDRAW
 </h3>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coreldraw/coreldraw-original.svg" width="60"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coreldraw/coreldraw-original.svg" width="60"/>
 🎨 CorelDRAW — Criação de certificados, calendários e materiais gráficos.
