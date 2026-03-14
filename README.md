@@ -1,5 +1,5 @@
 4 <p align="center">
-  <img src="COLE_AQUI_O_LINK_DIRETO_DO_BANNER_OU_GIF" width="100%">
+  <img src =" universe-galaxy.gif" width="100%">
 </p>
 
 <h1 align="center">
