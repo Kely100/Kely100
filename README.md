@@ -20,6 +20,15 @@
 
 ---
 
+
+ <h3 style="color: #8A2BE2;"> 🎯 Objetivo </h3>
+  <p>
+    Construir uma base sólida em tecnologia, desenvolver projetos acadêmicos,
+    e evoluir constantemente como estudante e futura profissional da área,
+    mantendo organização, disciplina e aprendizado contínuo.
+  </p>
+
+---
 <h3 style="color: #8A2BE2;">
 🧠 Linguagens que já estudei
 </h3>
