@@ -1,50 +1,5 @@
-
-<p align="center">
-  <img src="https://share.google/pEnlucyPuYaKGFH3D" width="100%">
-</p>
-
-<h1 align="center">
-  Kely Cristina Pereira da Silva
-</h1>
-
----
-
-<h3 style="color: #8A2BE2;">
-📌 Sobre mim
-</h3>
-
-- 🎂 XX anos  
-- 🖥 Informática Básica + Digitação (2018–2019) | SSMM  
-- 💻 Técnica em Informática - IF Goiano  
-- 🎓 Estudante do 3º período de Ciência da Computação - IF Goiano  
-- 📍 Morrinhos - Goiás  
-
----
-
-<h3 style="color: #8A2BE2;">
-🎯 Objetivo
-</h3>
-
-Estou em constante evolução na área de programação, buscando melhorar minha lógica e minhas habilidades técnicas, com dedicação e disciplina.
-
----
-
-<h3 style="color: #8A2BE2;">
-💡 Interesses
-</h3>
-
-- 🎨 Design  
-- 🌐 Criação de Sites  
-- 💻 Desenvolvimento Front-end  
-- 🌍 Redes de Computadores  
-
----
-<h3 style="color: #8A2BE2;">
-🧠 Linguagens que já estudei
-</h3>
-
-<p align="center">
-  <img src="COLE_AQUI_O_LINK_DO_BANNER" width="100%">
+ <p align="center">
+  <img src="COLE_AQUI_O_LINK_DIRETO_DO_BANNER_OU_GIF" width="100%">
 </p>
 
 <h1 align="center">
@@ -86,39 +41,24 @@ Estou em constante evolução na área de programação, buscando melhorar minha
 🖥 MARS - Arquitetura de Computadores
 </h3>
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Java_programming_language_logo.svg" width="60"/>
-</p>
----
-
-<h3 style="color: #8A2BE2;">
-🛠 Ferramentas que uso no dia a dia
-</h3>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70"/>
-</p>
-
+🖥 MARS — Simulador de Assembly (MIPS)
 
 ---
 
 <h3 style="color: #8A2BE2;">
-💻 Sistema Operacional
-</h3>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="70"/>
-</p>
-
----
-
- <h3 style="color: #8A2BE2;">
-📦 Pacote Office e Ferramentas Gráficas
+📦 Pacote Office
 </h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/word/word-original.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerpoint/powerpoint-original.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coreldraw/coreldraw-original.svg" width="60"/>
-</p> 
+</p>
+
+---
+
+<h3 style="color: #8A2BE2;">
+🎨 CorelDRAW
+</h3>
+
+🎨 CorelDRAW — Criação de certificados, calendários e materiais gráficos.
