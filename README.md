@@ -87,9 +87,8 @@ Estou em constante evolução na área de programação, buscando melhorar minha
 </h3>
 
 <p align="center">
-  <img src="./mars.png" width="80%">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Java_programming_language_logo.svg" width="60"/>
 </p>
-
 ---
 
 <h3 style="color: #8A2BE2;">
