@@ -62,6 +62,6 @@
 </h3>
 
 
-<img src="./coreldraw.png" width="60"/>
+<img src="./coreldraw-logo_brandlogos.net_96dfz-512x512.png" width="60"/>
 
 🎨 CorelDRAW — Criação de certificados, calendários e materiais gráficos.
