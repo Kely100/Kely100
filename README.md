@@ -86,4 +86,4 @@ Estou em constante evolução na área de programação, buscando melhorar minha
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerpoint/powerpoint-original.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coreldraw/coreldraw-original.svg" width="60"/>
-</p>
+</p> 
