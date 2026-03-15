@@ -108,7 +108,7 @@ Windows
 
 ---
 
-<h3 style="color:#8A2BE2;">📦 Ferramentas do Pacote Office estudado </h3>
+<h3 style="color:#8A2BE2;">📦 Ferramentas de Edição treinados </h3>
 
 <p align="center">
 
@@ -121,7 +121,7 @@ Windows
 ---
 
 <div style="background-color:#1A0026;padding:12px;border-radius:10px;">
-<h3 align="center" style="color:white;">🎨 CorelDRAW</h3>
+<h3 align="center" style="color:white;">🎨<b>Outro:<b> CorelDRAW</h3>
 </div>
 
 <p align="center">
