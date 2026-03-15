@@ -1,13 +1,24 @@
 
-<p align="center">
+href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+
+<div align="center" style="position: relative; width: 100%;">
+
   <img src="universe-galaxy.gif" width="100%">
-</p>
 
-<h1 align="center">
-  Kely Cristina Pereira da Silva
-</h1>
+  <h1 style="
+      position: absolute;
+      top: 45%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-family: 'Pacifico', cursive;
+      font-size: 55px;
+      color: white;
+      text-shadow: 2px 2px 10px black;
+  ">
+    Kely Cristina Pereira da Silva
+  </h1>
 
----
+</div>
 
 <h3 style="color: #8A2BE2;">
 📌 Sobre mim
