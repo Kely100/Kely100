@@ -61,7 +61,7 @@ MARS — Simulador Assembly (MIPS)
 <h3 style="color:#8A2BE2;">🛠 Ferramentas usadas no dia a dia</h3>
 
 <p align="center">
-<img src="https://code.visualstudio.com/assets/images/code-stable.png" width="80">
+<img src="Vscode.png" width="80">
 </p>
 
 <p align="center">
@@ -74,9 +74,9 @@ Visual Studio Code
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/word/word-original.svg" width="60">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" width="60">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerpoint/powerpoint-original.svg" width="60">
+<img src="Word.png" width="60">
+<img src="Powerpoint.jpg" width="60">
+<img src="Excel.png" width="60">
 
 </p>
 
