@@ -70,7 +70,7 @@ mantendo organização, disciplina e aprendizado contínuo.
 
 ---
 
-<h3 style="color:#8A2BE2;">🖥 Arquitetura de Computadores</h3>
+<h3 style="color:#8A2BE2;" align="center">🖥 Arquitetura de Computadores</h3>
 
 <p align="center">
 MARS — Simulador Assembly (MIPS)
@@ -79,8 +79,9 @@ MARS — Simulador Assembly (MIPS)
 ---
 
 <div style="background-color:#1A0026;padding:12px;border-radius:10px;">
+
 <h3 align="center" style="color:white;">🛠 Ferramentas usadas no dia a dia</h3>
-</div>
+  </div>
 
 <p align="center">
 <img src="Vscode.png" width="80">
