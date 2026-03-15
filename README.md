@@ -1,5 +1,4 @@
-
-href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
 
 <div align="center" style="position: relative; width: 100%;">
 
@@ -19,6 +18,8 @@ href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="style
   </h1>
 
 </div>
+
+---
 
 <h3 style="color: #8A2BE2;">
 📌 Sobre mim
