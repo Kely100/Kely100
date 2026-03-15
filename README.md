@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="universe-galaxy.gif" width="50%">
+  <img src="universe-galaxy.gif" width="100%">
 </p>
 
 <h1 align="center">
