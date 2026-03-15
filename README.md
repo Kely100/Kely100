@@ -100,23 +100,23 @@ Criação de certificados, calendários e materiais gráficos
 <tr>
 
 <td align="center" style="padding:10px;">
-<img src="20251210_094918.jpg"
-style="width:220px; height:220px; object-fit:cover;
-border-radius:20px; border:4px solid #8A2BE2;"><br>
+<div style="width:220px;height:220px;border-radius:20px;overflow:hidden;border:4px solid #8A2BE2;">
+<img src="20251210_094918.jpg" style="width:100%;height:100%;object-fit:cover;">
+</div>
 💻 Programando
 </td>
 
 <td align="center" style="padding:10px;">
-<img src="20251120_213919.jpg"
-style="width:220px; height:220px; object-fit:cover;
-border-radius:20px; border:4px solid #8A2BE2;"><br>
+<div style="width:220px;height:220px;border-radius:20px;overflow:hidden;border:4px solid #8A2BE2;">
+<img src="20251120_213919.jpg" style="width:100%;height:100%;object-fit:cover;">
+</div>
 🚀 Evento de tecnologia
 </td>
 
 <td align="center" style="padding:10px;">
-<img src="Screenshot_20260315_011216_Photos.jpg"
-style="width:220px; height:220px; object-fit:cover;
-border-radius:20px; border:4px solid #8A2BE2;"><br>
+<div style="width:220px;height:220px;border-radius:20px;overflow:hidden;border:4px solid #8A2BE2;">
+<img src="Screenshot_20260315_011216_Photos.jpg" style="width:100%;height:100%;object-fit:cover;">
+</div>
 📚 Estudando
 </td>
 
