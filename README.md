@@ -113,15 +113,7 @@ margin:12px;">
 style="border-radius:12px; border:3px solid #8A2BE2;
 box-shadow:0px 0px 20px #8A2BE2, 0px 0px 35px #8A2BE2;
 margin:12px;">
-
-
-<img src="imagem-1773278602619.jpg" width="220"
-style="border-radius:12px; border:3px solid #8A2BE2;
-box-shadow:0px 0px 20px #8A2BE2, 0px 0px 35px #8A2BE2;
-margin:12px;">
-
 </p>
-
 
 
 
