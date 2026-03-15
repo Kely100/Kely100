@@ -140,25 +140,31 @@ Criação de certificados, calendários e materiais gráficos
 <tr>
 
 <td align="center" style="padding:10px;">
-<img src="20251210_094918.jpg" width="220" height="220" style="object-fit:cover;border-radius:20px;border:4px solid #8A2BE2;">
+<img src="20251210_094918.jpg" width="180" height="180" style="object-fit:cover;border-radius:20px;border:4px solid #8A2BE2;">
 <br>
 💻 Programando
 </td>
 
 <td align="center" style="padding:10px;">
-<img src="20251120_213919.jpg" width="220" height="220" style="object-fit:cover;border-radius:20px;border:4px solid #8A2BE2;">
+<img src="20251120_213919.jpg" width="180" height="180" style="object-fit:cover;border-radius:20px;border:4px solid #8A2BE2;">
 <br>
 🚀 Evento de tecnologia
 </td>
 
 <td align="center" style="padding:10px;">
-<img src="WhatsApp Image 2026-03-15 at 13.58.28.jpeg" width="220" height="220" style="object-fit:cover;border-radius:20px;border:4px solid #8A2BE2;">
+<img src="WhatsApp Image 2026-03-15 at 13.58.28.jpeg" width="180" height="180" style="object-fit:cover;border-radius:20px;border:4px solid #8A2BE2;">
 <br>
 📚 Estudando
 </td>
 
 </tr>
 </table>
+
+---
+
+<p align="center">
+✨ Em constante evolução ✨
+</p>
 
 ---
 
