@@ -70,7 +70,7 @@ mantendo organização, disciplina e aprendizado contínuo.
 
 ---
 
-<h3 align="center" style="color:#8A2BE2;>🖥 Arquitetura de Computadores</h3>
+<h3 align="center" style=color:#8A2BE2;>🖥 Arquitetura de Computadores</h3>
 
 <p align="center">
 MARS — Simulador Assembly (MIPS)
