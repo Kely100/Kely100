@@ -101,17 +101,17 @@ Criação de certificados, calendários e materiais gráficos
 <tr>
 
 <td align="center" style="padding:10px;">
-<img src="imagem-1773278602619.jpg" width="220" style="border-radius:12px; border:4px solid #8A2BE2;"><br>
+<img src="20251210_094918.jpg" width="220" style="border-radius:12px; border:4px solid #8A2BE2;"><br>
 💻 Programando
 </td>
 
 <td align="center" style="padding:10px;">
-<img src="foto-pc.jpg" width="220" style="border-radius:12px; border:4px solid #8A2BE2;"><br>
+<img src="   20251120_213919.jpg    " width="220" style="border-radius:12px; border:4px solid #8A2BE2;"><br>
 🚀 Evento de tecnologia
 </td>
 
 <td align="center" style="padding:10px;">
-<img src="campus-party.jpg" width="220" style="border-radius:12px; border:4px solid #8A2BE2;"><br>
+<img src=Screenshot_20260315_011216_Photos.jpg" width="220" style="border-radius:12px; border:4px solid #8A2BE2;"><br>
 📚 Estudando
 </td>
 
