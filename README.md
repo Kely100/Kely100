@@ -104,7 +104,7 @@ style="border-radius:12px; border:3px solid #8A2BE2;
 box-shadow:0px 0px 20px #8A2BE2, 0px 0px 35px #8A2BE2;
 margin:12px;">
 
-<img src="campus-party.jpg" width="220"
+<img src="20251210_094918.jpg" width="220"
 style="border-radius:12px; border:3px solid #8A2BE2;
 box-shadow:0px 0px 20px #8A2BE2, 0px 0px 35px #8A2BE2;
 margin:12px;">
