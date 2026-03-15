@@ -167,7 +167,3 @@ Criação de certificados, calendários e materiais gráficos
 </p>
 
 ---
-
-<p align="center">
-✨ Em constante evolução ✨
-</p>
