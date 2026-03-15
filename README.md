@@ -134,10 +134,8 @@ Criação de certificados, calendários e materiais gráficos
 ---
 
 <p align="center">
-✨ Em constante evolução ✨
-</p> constantemente como estudante e futura profissional da área,
-mantendo organização, disciplina e aprendizado contínuo.
-</p>
+✨ Em constante evolução ✨</p>
+
 
 ---
 
