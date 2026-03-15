@@ -122,7 +122,7 @@ Criação de certificados, calendários e materiais gráficos
 </td>
 
 <td align="center" style="padding:10px;">
-<div style="width:100%;border-radius:20px;overflow:hidden;border:4px solid #8A2BE2;">
+<div style="width:600px;height:220px;;border-radius:20px;overflow:hidden;border:4px solid #8A2BE2;">
 <img src="Screenshot_20260315_011216_Photos.jpg" style="width:100%;height:100%;object-fit:cover;">
 </div>
 📚 Estudando
