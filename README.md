@@ -23,7 +23,6 @@ Kely Cristina Pereira da Silva
 - 📍 Morrinhos - Goiás  
 
 ---
----
 
 <div style="background-color:#1A0026;padding:12px;border-radius:10px;">
 <h3 align="center" style="color:white;">📚 Conteúdos de interesse</h3>
