@@ -85,8 +85,9 @@ Visual Studio Code
 <h3 style="color:#8A2BE2;">🎨 CorelDRAW</h3>
 
 <p align="center">
-<img src=coreldraw-logo_brandlogos.net_96dfz-512x512.png" width="60">
+  <img src="./coreldraw-logo_brandlogos.net_96dfz-512x512.png" width="60"/>
 </p>
+
 
 <p align="center">
 Criação de certificados, calendários e materiais gráficos
