@@ -79,7 +79,7 @@
 </h3>
 
 <p align="center">
-  <img src="word.png" width="60"/>
+  <img src="Word.png" width="60"/>
   <img src="Powerpoint.jpg" width="60"/>
   <img src="Excel.png" width="60"/>
 </p>
