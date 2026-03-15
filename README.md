@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="universe-galaxy.gif" width="100%">
+  <img src="universe-galaxy.gif" width="50%">
 </p>
 
 <h1 align="center">
@@ -7,7 +7,7 @@ Kely Cristina Pereira da Silva
 </h1>
 
 <p align="center">
-<img src="Kely.jpg" width="250" style="border-radius:50%; border:4px solid #8A2BE2;">
+<img src="Kely.jpg" width="300" style="border-radius:50%; border:4px solid #8A2BE2;">
 </p>
 
 ---
