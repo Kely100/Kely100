@@ -95,32 +95,28 @@ Criação de certificados, calendários e materiais gráficos
 
 ---
 
-<h3 style="color:#8A2BE2;">📸 Minha jornada na tecnologia</h3>
+<h3 align="center">📸 Minha jornada na tecnologia</h3>
 
-<p align="center">
+<table align="center">
+<tr>
 
-<img src="20251120_213919.jpg" width="220"
-style="border-radius:12px; border:3px solid #8A2BE2;
-box-shadow:0px 0px 20px #8A2BE2, 0px 0px 35px #8A2BE2;
-margin:12px;">
+<td align="center" style="padding:10px;">
+<img src="imagem-1773278602619.jpg" width="220" style="border-radius:12px; border:4px solid #8A2BE2;"><br>
+💻 Programando
+</td>
 
-<img src="20251210_094918.jpg" width="220"
-style="border-radius:12px; border:3px solid #8A2BE2;
-box-shadow:0px 0px 20px #8A2BE2, 0px 0px 35px #8A2BE2;
-margin:12px;">
+<td align="center" style="padding:10px;">
+<img src="foto-pc.jpg" width="220" style="border-radius:12px; border:4px solid #8A2BE2;"><br>
+🚀 Evento de tecnologia
+</td>
 
-<img src="Screenshot_20260315_011216_Photos.jpg" width="220"
-style="border-radius:12px; border:3px solid #8A2BE2;
-box-shadow:0px 0px 20px #8A2BE2, 0px 0px 35px #8A2BE2;
-margin:12px;">
-</p>
+<td align="center" style="padding:10px;">
+<img src="campus-party.jpg" width="220" style="border-radius:12px; border:4px solid #8A2BE2;"><br>
+📚 Estudando
+</td>
 
-
-
-<p align="center">
-💻 Programando • 🚀 Eventos de tecnologia • 📚 Estudando e evoluindo
-</p>
-
+</tr>
+</table>
 ---
 
 <p align="center">
