@@ -94,32 +94,35 @@ Criação de certificados, calendários e materiais gráficos
 </p>
 
 ---
-
 <h3 align="center">📸 Minha jornada na tecnologia</h3>
 
 <table align="center">
 <tr>
 
 <td align="center" style="padding:10px;">
-<img src="20251210_094918.jpg" width="220" height="220"
-style="border-radius:20px; border:4px solid #8A2BE2;"><br>
+<img src="20251210_094918.jpg"
+style="width:220px; height:220px; object-fit:cover;
+border-radius:20px; border:4px solid #8A2BE2;"><br>
 💻 Programando
 </td>
 
 <td align="center" style="padding:10px;">
-<img src="20251120_213919.jpg" width="220" height="220"
-style="border-radius:20px; border:4px solid #8A2BE2;"><br>
+<img src="20251120_213919.jpg"
+style="width:220px; height:220px; object-fit:cover;
+border-radius:20px; border:4px solid #8A2BE2;"><br>
 🚀 Evento de tecnologia
 </td>
 
 <td align="center" style="padding:10px;">
-<img src="Screenshot_20260315_011216_Photos.jpg" width="220" height="220"
-style="border-radius:20px; border:4px solid #8A2BE2;"><br>
+<img src="Screenshot_20260315_011216_Photos.jpg"
+style="width:220px; height:220px; object-fit:cover;
+border-radius:20px; border:4px solid #8A2BE2;"><br>
 📚 Estudando
 </td>
 
 </tr>
 </table>
+
 ---
 
 <p align="center">
