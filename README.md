@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <img src="minha-foto.png" width="160" style="border-radius:50%; border:3px solid #8A2BE2; box-shadow:0px 0px 15px #8A2BE2;">
+  <img src="Kely.png" width="160" style="border-radius:50%; border:3px solid #8A2BE2; box-shadow:0px 0px 15px #8A2BE2;">
 </p>
 
 ---
