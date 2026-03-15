@@ -92,7 +92,23 @@ Visual Studio Code
 
 ---
 
-<h3 style="color:#8A2BE2;">📦 Pacote Office</h3>
+<div style="background-color:#1A0026;padding:12px;border-radius:10px;">
+<h3 align="center" style="color:white;">🖥 Sistema Operacional</h3>
+</div>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="60">
+
+</p>
+
+<p align="center">
+Windows
+</p>
+
+---
+
+<h3 style="color:#8A2BE2;">📦 Ferramentas do Pacote Office estudado </h3>
 
 <p align="center">
 
