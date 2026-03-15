@@ -79,9 +79,9 @@
 </h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/word/word-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerpoint/powerpoint-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" width="60"/>
+  <img src="word.png" width="60"/>
+  <img src="Powerpoint.jpg" width="60"/>
+  <img src="Excel.png" width="60"/>
 </p>
 
 ---
