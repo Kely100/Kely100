@@ -137,34 +137,6 @@ Criação de certificados, calendários e materiais gráficos
 ✨ Em constante evolução ✨</p>
 
 
----
-
-<h3 style="color:#8A2BE2;">🧠 Linguagens que já estudei</h3>
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="60">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60">
-
-</p>
-
----
-
-<h3 style="color:#8A2BE2;">🖥 Arquitetura de Computadores</h3>
-
-<p align="center">
-MARS — Simulador Assembly (MIPS)
-</p>
-
----
-
-<h3 style="color:#8A2BE2;">🛠 Ferramentas usadas no dia a dia</h3>
 
 <p align="center">
 <img src="Vscode.png" width="80">
