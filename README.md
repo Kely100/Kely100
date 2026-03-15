@@ -65,7 +65,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="80"/>
+  <img src="Vscode.png" width="80"/>
 </p>
 
 <p align="center">
