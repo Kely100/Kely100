@@ -111,7 +111,7 @@ Criação de certificados, calendários e materiais gráficos
 </td>
 
 <td align="center" style="padding:10px;">
-<img src=Screenshot_20260315_011216_Photos.jpg" width="220" style="border-radius:12px; border:4px solid #8A2BE2;"><br>
+<img src="Screenshot_20260315_011216_Photos.jpg" width="220" style="border-radius:12px; border:4px solid #8A2BE2;"><br>
 📚 Estudando
 </td>
 
